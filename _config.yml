@@ -13,7 +13,7 @@ github_username: shirinyamani
 codepen_username: 
 dev_username:
 linkedin_username: shirinyamani
-twitter_username: shirin yamani
+twitter_username: shirinyamani
 
 # About Me Section
 show_aboutme_card: true
@@ -26,7 +26,7 @@ skills_title: Skills
 # Timeline Section
 show_timeline_card: true
 timeline_title: My Journey
-cv_download_link: https://github.com/longpdo/Awesome-CV/blob/master/examples/cv.pdf
+cv_download_link:
 
 # Projects Section
 show_projects_card: true

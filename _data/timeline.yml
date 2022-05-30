@@ -1,17 +1,17 @@
-- title: adorsys
-  title-url: https://adorsys.de/
-  date: Sep 2020 - Present
-  subtitle: Software Developer
+- title: DigiKala
+  title-url: https://www.digikala.com/
+  date: Jan 2021 - Jul 2021
+  subtitle: NLP Researcher
   tags:
-    - tag: Angular
-    - tag: AngularJS
-    - tag: SpringBoot
-    - tag: Java
+    - tag: GPT-3
+    - tag: Few-shot learning
+    - tag: Pytorch
+    - tag: Python
   timeline-side: right
 
-- title: Digital Tech Summit Hackathon
-  title-url: https://www.gotechsummit.com/
-  date: 2019
+- title: Job Vision
+  title-url: https://jobvision.ir/
+  date: Jul 2020 - Dec 2020
   subtitle: "2nd place - Novartis & Müller Medien Health Challenge."
   github: https://github.com/team-ver/face_classification
   tags:
