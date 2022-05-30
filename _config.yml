@@ -30,7 +30,7 @@ cv_download_link:
 
 # Projects Section
 show_projects_card: true
-show_projects: false
+show_projects: true
 projects_title: Things I Have Built
 show_os_projects: true
 os_projects_title: Things I Contributed To Open Source
