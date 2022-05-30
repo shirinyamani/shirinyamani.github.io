@@ -2,4 +2,7 @@
   descr: "In this blog, I break down the Trasnformer block and tried to esplain the material in a simple way"
   demo: https://medium.com/@shirinyamani/transformer-from-scratch-4304fcd2da0f
   tags:
-       - tag: Tech
+       - tag: Word embedding
+       - tag: Dot product
+       - tag: Attention mechanism
+       - tag: Multi-head attention
