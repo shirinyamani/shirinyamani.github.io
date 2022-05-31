@@ -6,4 +6,10 @@
        - tag: Dot product
        - tag: Attention mechanism
        - tag: Multi-head attention
-       - tag: Test
+
+- name: project Y
+  descr: "test"
+  demo: https://www.emojicopy.com/
+  tags:
+    - tag: Python
+    - tag: Django
